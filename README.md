@@ -1,3 +1,7 @@
+## バッテリー貸出アプリ -mobazy-
+![mobazy-poster-demo](https://github.com/user-attachments/assets/3393d5e4-439c-4239-94c9-3baa9b0ab51b)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
